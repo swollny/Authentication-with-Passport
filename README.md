@@ -1,5 +1,9 @@
 # Authentication-with-Passport
 by Sophie Wollny 
-<br> 1. Herunterladen
-<br> 2. npm install
-<br> 3. index.html in Browser öffnen
+## Präsentation
+1. Herunterladen
+2. npm install
+3. index.html in Browser öffnen
+
+## Demo
+4. In den Ordner passport_demo wechseln und README.md befolgen
